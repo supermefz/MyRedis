@@ -1,1 +1,1 @@
-# Fz和Hyw 共同开发的简易版Redis！
+# Hyw和Fz共同开发的简易版Redis！
