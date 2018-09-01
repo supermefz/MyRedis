@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<maps> 
+  <map505 name="kv"> 
+    <key>asd</key>  
+    <value>12345abcdefg</value> 
+  </map505>  
+  <map506 name="kv"> 
+    <key>name1</key>  
+    <value>hyw</value> 
+  </map506>  
+  <map507 name="kv"> 
+    <key>name2</key>  
+    <value>fz</value> 
+  </map507>
+</maps>
